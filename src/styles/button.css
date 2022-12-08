@@ -1,0 +1,20 @@
+.primary{
+    background-color: blueviolet;
+    padding: 10px 50px;
+    margin: 10px;
+    color: black;
+}
+
+.secondary{
+    background-color: rosybrown;
+    padding: 10px 50px;
+    margin: 10px;
+    color: black;
+}
+
+.danger{
+    background-color: rgba(255, 0, 0, 0.479);
+    padding: 10px 50px;
+    margin: 10px;
+    color: black;
+}
